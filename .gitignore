@@ -1,0 +1,6 @@
+*.bck
+*bak
+opalSCSI-backups
+_autosave*
+_saved*
+fp-info-cache
